@@ -1,2 +1,0 @@
-apikey="zu-Nrxyk0XESyrqkf9CFJxNzCiTaHRyM6XbBexHc4mET"
-url="https://api.us-south.language-translator.watson.cloud.ibm.com/instances/0aae52cb-9e65-44d5-9a34-2b0faed6b520"
